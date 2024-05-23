@@ -1,0 +1,3 @@
+[submodule "git_pubish"]
+	path = git_pubish
+	url = git@github.com:shoushuu/git_pubish.git
